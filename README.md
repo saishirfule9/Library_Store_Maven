@@ -15,7 +15,7 @@ It provides options to manage books effectively with persistent storage using Ja
 ## ⚙️ Features
 
 - Add new books with details like title, author, and ID  
-- View all available books in the library  
+- View all available books in the library   
 - Search for a book by title or ID  
 - Remove books from the system  
 - User-friendly console interface  
